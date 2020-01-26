@@ -1,0 +1,24 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "clocl app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:jmcgloin/npm-lab-online-web-pt-051319.git"
+  },
+  "keywords": [
+    "learn",
+    "flatiron",
+    "clock",
+    "color-clock"
+  ],
+  "author": "learn.com, Jason McGloin",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}

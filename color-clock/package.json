@@ -1,0 +1,26 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "color-changing clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KristinHannah/npm-lab-online-web-pt-051319.git"
+  },
+  "keywords": [
+    "color",
+    "clock"
+  ],
+  "author": "KK and LearnCo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristinHannah/npm-lab-online-web-pt-051319/issues"
+  },
+  "homepage": "https://github.com/KristinHannah/npm-lab-online-web-pt-051319#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
